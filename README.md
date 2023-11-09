@@ -1,65 +1,118 @@
-<h2 align="left">Hi 👋! My name is Akash and I'm a Developer, from Bengaluru, India</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashDallen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashDallen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align = "center">  
+  <h1> ♬👊 𝐖ｅ𝓁𝐜ｏϻ乇 тＯ 𝐦Ｙ ρŘ𝑜𝐟Ꭵℓє ☯🎁 </h1>
+  <img src="https://komarev.com/ghpvc/?username=AkashDallen&style=flat-square&color=blue" alt=""/>
+</div>  
+  
+<div align = "center">
+  <img src = "https://media.tenor.com/2Ps4pcnzonIAAAAC/one-piece-one-piece-ruffy.gif">
 </div>
 
-###
+<div align = "center">
+  <h1>    </h1>
+  <h2> 🔍🌟 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 ✨🔧 </h2>
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "70" height = "70" style = "max-width: 100%;"> 
+    </a>
+            
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+   
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "70" height = "70" style = "max-width: 100%;">
+  </a>     
+            
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title = "HTML" alt = "HTML" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+            
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CSS3" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
+  <a>
 
-<img align="right" height="150" src="https://media.tenor.com/nP7Hl7wEZOcAAAAi/hacker-meme-hacker.gif"  />
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title = "Unity" width = "70" height = "70" style = "max-width: 100%;">
+  <a>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title = "CSharp" width = "70" height = "70" style = "max-width: 100%;">
+  <a>
+  
+    
 </div>
 
-###
-
-<div align="left">
-  <a href="https://youtube.com/@AKASH-hy2jh?si=Y-oGZ_3tKRMP2Xgs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/akash__birwaaz?igshid=MzMyNGUyNmU2YQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="miztogen07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="akash #6639" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="ak8895114@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/akash-c-billava-b9a99824a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div> 
+  <h1>    </h1>
+  <h2 align = "center"> 🎀 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🎀 </h2>
+  <img src = "https://wallpapercave.com/uwp/uwp505433.gif" align = "right">
+  <li> <b> Name : </b> Akash </li>
+  <li> <b> Qualification : </b>Master of Computer Application from <a href = "https://www.rvce.edu.in/" rel = "nofollow"> RV College of Engineering</a>, Bengaluru.</li>
+   <li> <b> Hobbies: </b> Watching anime-movies-series-kdrama, coding, gamimg</li>
+   <li> <b> Work : </b> Technical Support Engineer Intern at Whatfix</li>
+   <li> I am a tech enthusiast diving into various fields and experiencing all tech wonders. Currently I am working on some Unity AR,VR and gaming projects and simultaneouly learning the basics of blender animation and model designing as hobby!! </li>
+   <li> Did various projects while in MCA at RVCE. And also I have won the prestigious Karnataka State Award for one of my projects "Augmented Reality Application to Visualize Biogas Plant" </li>
+</div>
+    
+<div align = "center">
+  <h1>    </h1>
+  <img src = "https://media.tenor.com/i8fM-YnW1pAAAAAC/gojo-satoru-jujutsu-kaisen.gif">
+</div>
+    
+<div> 
+  <h1>   </h1>
+  <h2 align = "center"> 🌸 𝓢𝓽𝓪𝓽𝓼 🌸</h2>
+  <p align="center" >  
+    <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=AkashDallen&&show_icons=true&theme=radical" width = 500>
+      <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashDallen&theme=radical" width = 500>
+      <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashDallen&layout=compact&theme=radical" width = 500>
+      </a>
+  </p>
 </div>
 
-###
+<div> 
+  <h1>   </h1>
+  <h2 align = "center"> 🌸 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 🌸</h2>
+  
+  <div id="badges" align = "center">
+    <a href="https://www.linkedin.com/in/akash-c-billava-b9a99824a">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width = "70" height = "70" style = "max-width: 100%;" alt="LinkedIn Badge"/>
+    </a>
+    <a href="">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png?w=128&f=avif" width = "70" height = "70" style = "max-width: 100%;" alt="Discord Badge"/>
+    </a>
+    <a href="">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png?w=128&f=avif" width = "70" height = "70" style = "max-width: 100%;" alt="Instagram Badge"/>
+    </a>  
+  </div>
+</div>  
+    
+<div align = "center">
+  <h1>   </h1>
+  <img src = "https://www.gifcen.com/wp-content/uploads/2022/11/nezuko-gif.gif" align = "center">
+  <h5>🌟 𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 𝓯𝓸𝓻 𝓿𝓲𝓼𝓲𝓽𝓲𝓷𝓰 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮, 𝓱𝓸𝓹𝓮 𝔂𝓸𝓾 𝓮𝓷𝓳𝓸𝔂𝓮𝓭 𝔂𝓸𝓾𝓻 𝓼𝓽𝓪𝔂 𝓱𝓮𝓻𝓮 🌟</h5>
+</div>
 
-<br clear="both">
-
-<img src="https://github.com/AkashDallen/AkashDallen/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
+    
+<!---
+krishnapriya-n/krishnapriya-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
